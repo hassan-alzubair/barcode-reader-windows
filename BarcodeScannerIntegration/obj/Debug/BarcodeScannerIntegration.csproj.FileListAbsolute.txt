@@ -1,0 +1,9 @@
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\bin\Debug\BarcodeScannerIntegration.exe.config
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\bin\Debug\BarcodeScannerIntegration.exe
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\bin\Debug\BarcodeScannerIntegration.pdb
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\obj\Debug\BarcodeScannerIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\obj\Debug\BarcodeScannerIntegration.Form1.resources
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\obj\Debug\BarcodeScannerIntegration.Properties.Resources.resources
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\obj\Debug\BarcodeScannerIntegration.csproj.GenerateResource.Cache
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\obj\Debug\BarcodeScannerIntegration.exe
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\BarcodeScannerIntegration\BarcodeScannerIntegration\obj\Debug\BarcodeScannerIntegration.pdb
